@@ -119,7 +119,7 @@ simple-crud-app/
 
 **Stojance Oreskov**  
 📧 Email: [oreskov.stojance1@gmail.com](mailto:oreskov.stojance1@gmail.com)  
-🌍 GitHub: [oreskov-s](https://github.com/oreskovs)
+🌍 GitHub: [oreskovs](https://github.com/oreskovs)
 
 ---
 
